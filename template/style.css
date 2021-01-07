@@ -1,0 +1,8 @@
+html{
+    box-sizing: border-box;
+}
+
+body {
+    margin: none;
+    min-height: 100vh;
+}
